@@ -3,15 +3,7 @@ en:
   contentDir: content/en
   title: "Welcome to my site"
   description: "A personal website in English"
-  menu:
-    main:
-      - name: "About Us"
-        url: "#about-us"
-        weight: 1
-        - name: "My Research"
-        url: "#my-research"
-        weight: 1
-
+ 
 de:
   languageCode: de-de
   contentDir: content/de
