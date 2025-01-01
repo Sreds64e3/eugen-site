@@ -7,16 +7,23 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: "Welcome to my site"
+    description: "Site description in english..."
+  menu:
+    main:
+      - name: "About Us"
+        url: '#about-us'
+        weight: 1
+
 
 # Uncomment the lines below to configure your website in a second language.
 de:
 languageCode: de-de
   contentDir: content/de
-  title: 
-  params:
-    description: Site description in german...
+  title: "Welcome to my site"
+    description: "Site description in german..."
   menu:
     main:
-      - name: 传
+      - name: "Uber uns"
         url: '#Uber uns'
         weight: 1
