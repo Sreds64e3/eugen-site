@@ -11,12 +11,12 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 de:
 languageCode: de-de
-  contentDir: content/zh
+  contentDir: content/de
   title: 
   params:
-    description: Site description in Chinese...
+    description: Site description in german...
   menu:
     main:
       - name: 传
-        url: '#about'
+        url: '#Über uns'
         weight: 1
