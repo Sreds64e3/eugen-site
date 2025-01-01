@@ -1,87 +1,25 @@
----
-title: 'An example conference paper'
+## Publikationen
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+### Peer-Reviewed
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+- **Dolezal Eugen R., Windegger, Moritz**: Ausweg oder Irrweg? Ein Versuch über die Bedeutung von durch Technobilder gestützten Narrativen in der existenziellen Langeweile, in: LIMINA - Grazer theologische Perspektiven 5 / H. 1 (2022) 200–222.  
+  - [DOI](https://doi.org/10.25364/17.5:2022.1.9)
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+- **Dolezal Eugen R., Windegger, Moritz**: KI – Künstler oder Werkzeug? Grenzfindungsversuch maschineller Intelligenz hinsichtlich der Schaffung von Kunstwerken, in: LIMINA - Grazer theologische Perspektiven 3 / H. 2 (2020) 217–235.  
+  - [DOI](https://doi.org/10.25364/17.3:2020.2.11)
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+### Nicht Peer-Reviewed
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+- **Dolezal, Eugen R**: Der überholte Mensch. Kritische Anfragen an Nick Bostroms Konzept von Superintelligenz, Wiesbaden: Springer VS 2024.  
+  - [DOI](https://doi.org/10.25364/17.3:2020.2.11)
 
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+### Rezensionen
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+- **Dolezal, Eugen R. / Gremsl, Thomas**: Rezension zu: Gronover, Matthias u.a. (Hg.): Religiöse Bildung in einer digitalisierten Welt. Beiträge zur Theorie und Praxis des Religionsunterrichts an berufsbildenden Schulen, Münster: Waxmann 2021 (= Glaube – Wertebildung – Interreligiosität 23), in: Österreichische Religionspädagogische Forum (ÖRF) 31 / H. 1 (2023) 269–273.  
+  - [DOI](https://doi.org/10.25364/17.3:2020.2.11)
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-  - Large Language Models
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+> **Cite this work**:  
+> Dolezal, Eugen R., & Windegger, Moritz. (2022). "Ausweg oder Irrweg? Ein Versuch über die Bedeutung von durch Technobilder gestützten Narrativen in der existenziellen Langeweile," *LIMINA - Grazer theologische Perspektiven*, 5(1), 200–222.  
+> DOI: [https://doi.org/10.25364/17.5:2022.1.9](https://doi.org/10.25364/17.5:2022.1.9)
