@@ -18,5 +18,5 @@ languageCode: de-de
   menu:
     main:
       - name: 传
-        url: '#Über uns'
+        url: '#Uber uns'
         weight: 1
