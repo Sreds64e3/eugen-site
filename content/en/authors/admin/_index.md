@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Dolezal Eugen R.
-
+title: Dolezal Eugen R
 <!-- 
 # Name pronunciation (optional)
 name_pronunciation: Dolezal Eugen R.
