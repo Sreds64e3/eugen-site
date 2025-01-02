@@ -28,7 +28,10 @@ role: Universitätsassistent (Praedoc)
 organizations:
   - name: Universität Wien
     url: https://se-ktf.univie.ac.at/ueber-uns/team/eugen-dolezal/
-
+  - name: Universität Graz
+    url: https://ethik.uni-graz.at/de/ueber-das-institut/eugen-dolezal
+  - name: Orchid
+    url: https://orcid.org/0000-0002-9914-3073
 <!--
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
