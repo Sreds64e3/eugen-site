@@ -1,17 +1,19 @@
 ---
 # Display name
-title: 吳健雄
+title: Dolezal Eugen R.
 
+<!-- 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
+name_pronunciation: Dolezal Eugen R.
+ -->
+ 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Eugen
+last_name: Dolezal
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,13 +22,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Universitätsassistent (Praedoc)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universität Wien
+    url: https://se-ktf.univie.ac.at/ueber-uns/team/eugen-dolezal/
 
+<!--
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -45,6 +48,7 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
+
 
 interests:
   - Artificial Intelligence
@@ -83,6 +87,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -180,7 +186,7 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
+-->
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Eugen Dolezai and I focus on questions of social ethics, especially in relation to technology ethics. My research focuses on artificial intelligence and neurotechnologies and their significance for people and society. Since the beginning of my academic career at the University of Graz, I have been dedicated to researching the relationship between humans and machines, with the aim of identifying dangers and risks in the context of technological development to promote the use of new technologies with people at the center.
