@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Dolezal Eugen R.
----
+
 <!-- 
 # Name pronunciation (optional)
 name_pronunciation: Dolezal Eugen R.
@@ -185,8 +185,9 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+
 -->
+---
 ## About Me
 
 My name is Eugen Dolezai and I focus on questions of social ethics, especially in relation to technology ethics. My research focuses on artificial intelligence and neurotechnologies and their significance for people and society. Since the beginning of my academic career at the University of Graz, I have been dedicated to researching the relationship between humans and machines, with the aim of identifying dangers and risks in the context of technological development to promote the use of new technologies with people at the center.
