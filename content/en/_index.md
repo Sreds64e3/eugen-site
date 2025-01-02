@@ -22,37 +22,43 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
+  - block: custom
+    id: academic_background
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+      title: "📚 Wissenschaftlicher Werdegang | Academic Background"
+      text: |
+        ## 05/2023 – laufend
+        Wissenschaftlicher Mitarbeiter des Projekts “MemorAI Styria” für das Institut für Ethik und Gesellschaftslehre an der Universität Graz
+
+        ## 12/2023 – laufend
+        Universitätsassistent am Fachbereich Sozialethik an der Universität Wien
+
+        ## 09/2023 – 04/2024
+        Wissenschaftlicher Mitarbeiter der EU-Studie “The protection of mental privacy in the area of neuroscience - societal, legal and ethical challenges” für das Institut für Ethik und Gesellschaftslehre an der Universität Graz
+
+        ## 07/2023 – 04/2024
+        Projektmitarbeiter an der Professur für Health Care Ethics an der Universität Graz
+
+        ## 11/2022 – 04/2023
+        Universitätsassistent am Institut für Ethik und Gesellschaftslehre an der Universität Graz
+
+        ## 2022
+        Diplomstudium der Katholischen Fachtheologie an der Katholisch-Theologischen Fakultät der Universität Graz  
+        Sponsion zum Mag.theol mit ausgezeichnetem Erfolg
+
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -63,6 +69,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -73,6 +80,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: news
     content:
@@ -102,6 +110,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -123,4 +132,3 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
-
